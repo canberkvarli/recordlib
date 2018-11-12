@@ -3,4 +3,4 @@
 # Background
 • Developed with PHP and HTML.
 # Essentials
-• To run the website in a local, user must build a XAMPP Server.
+• To run the website in local, user must build a XAMPP Server.
